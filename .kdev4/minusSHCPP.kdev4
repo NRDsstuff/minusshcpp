@@ -1,0 +1,19 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x14\x00m\x00i\x00n\x00u\x00s\x00S\x00H\x00C\x00P\x00P)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index-System gospodarza=0
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=/home/nrdondrugs/projects/minusSHCPP/build
+Build Type=Debug
+CMake Binary=/usr/bin/cmake
+CMake Executable=/usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=/usr/local
+Runtime=System gospodarza
+
+[Project]
+VersionControlSupport=kdevgit
