@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/minusshcpp.dir/main.cpp.o -o minusshcpp 

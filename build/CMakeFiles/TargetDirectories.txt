@@ -1,0 +1,7 @@
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/minusshcpp.dir
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/edit_cache.dir
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/rebuild_cache.dir
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/list_install_components.dir
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/install.dir
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/install/local.dir
+/home/nrdondrugs/projects/minusSHCPP/build/CMakeFiles/install/strip.dir
