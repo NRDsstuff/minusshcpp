@@ -1,6 +1,17 @@
 #include <iostream>
+#include <fstream>
+#include <nlohmann/json.hpp>
+#include "readfile.hpp"
 
-int main(int argc, char **argv) {
-    std::cout << "Hello, world!" << std::endl;
+using namespace std;
+using json = nlohmann::json;
+
+int main(){
+
+    string data;
+    data = readFile("config.json");
+
+    cout << data << endl;
+
     return 0;
 }
